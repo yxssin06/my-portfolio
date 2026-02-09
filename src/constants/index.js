@@ -143,8 +143,9 @@ const techStackIcons = [
 
 const expCards = [
   {
-    review: "Adrian brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
-    imgPath: "/images/exp1.png",
+    review: "Yassin managed the deployment pipeline for our mobile app and ensured smooth beta releases on both iOS and Android. His thorough testing helped deliver a stable and reliable user experience.",
+    imgPath: "/images/Aeon Stellar.png",
+    company: 'Aeon Stellar',
     logoPath: "/images/Aeon Stellar.png",
     title: "Software Engineering Intern",
     date: "January 2026 - Present",
@@ -155,8 +156,9 @@ const expCards = [
     ],
   },
   {
-    review: "Adrian’s contributions to Docker's web applications have been outstanding. He approaches challenges with a problem-solving mindset.",
-    imgPath: "/images/exp2.png",
+    review: "Yassin delivered a cross platform mobile app and significantly improved our web performance and user experience. His data visualizations helped streamline analysis and speed up development.",
+    imgPath: "/images/logo-icon.webp",
+    company: "GastroTrack AI",
     logoPath: "/images/logo-icon.webp",
     title: "Software Engineering Intern",
     date: "January 2025 - May 2025",
@@ -167,8 +169,9 @@ const expCards = [
     ],
   },
   {
-    review: "Adrian’s work on Appwrite’s mobile app brought a high level of quality and efficiency. He delivered solutions that enhanced our mobile experience & meet our product goals.",
-    imgPath: "/images/exp3.png",
+    review: "Yassin built responsive, accessible UI components with React and Next.js and improved performance through thoughtful refactoring. His data visualizations made complex information easy to understand.",
+    imgPath: "/images/max.png",
+    company: "Muslims Achieving Excellence",
     logoPath: "/images/max.png",
     title: "Web Developer",
     date: "February 2025 - June 2025",
