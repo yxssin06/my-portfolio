@@ -148,7 +148,7 @@ const expCards = [
     company: 'Aeon Stellar',
     logoPath: "/images/Aeon Stellar.png",
     title: "Software Engineering Intern",
-    date: "January 2026 - Present",
+    date: "January 2026 - April 2026",
     responsibilities: [
       "Set up and managed the app deployment pipeline for publishing the Stella Health beta on both Google Play and the Apple App Store.",
       "Performed thorough testing across devices and platforms to identify bugs and ensure smooth, reliable app performance.",
