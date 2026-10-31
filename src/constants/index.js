@@ -143,6 +143,19 @@ const techStackIcons = [
 
 const expCards = [
   {
+    review: "Yassin built automated test scripts with Playwright and TypeScript for our real time web applications and helped integrate them into our CI/CD pipeline. His attention to detail caught issues before release and made our testing process faster and more reliable.",
+    imgPath: "/images/Survalent_Logo.jpg",
+    company: 'Survalent',
+    logoPath: "/images/Survalent_Logo.jpg",
+    title: "Software Developer Co-op",
+    date: "September 2026 - Present",
+    responsibilities: [
+      "Develop automated test scripts using Playwright, TypeScript, and Node.js to validate real time server and web applications used for electric utility monitoring and control.",
+      "Integrate automated tests into the CI/CD build pipeline with the Build team, helping catch defects earlier and streamline the release process.",
+      "Test REST API endpoints and front-end workflows for functionality and responsiveness, and create technical documentation to support test automation.",
+    ],
+  },
+  {
     review: "Yassin managed the deployment pipeline for our mobile app and ensured smooth beta releases on both iOS and Android. His thorough testing helped deliver a stable and reliable user experience.",
     imgPath: "/images/Aeon Stellar.png",
     company: 'Aeon Stellar',
@@ -173,7 +186,7 @@ const expCards = [
     imgPath: "/images/max.png",
     company: "Muslims Achieving Excellence",
     logoPath: "/images/max.png",
-    title: "Web Developer",
+    title: "Software Developer",
     date: "February 2025 - June 2025",
     responsibilities: [
       "Developed interactive and responsive UI components using React, Next.js, TypeScript, and CSS, applying UI/UX principles to optimize navigation and accessibility.",
