@@ -46,8 +46,8 @@ const AppShowcase = () => {
       <div className="w-full">
         <div className="showcaselayout">
           <div ref={rydeRef} className="first-project-wrapper">
-            <div className="image-wrapper">
-              <img src="/images/marketio4.png" alt="Ryde App Interface" />
+            <div className="image-wrapper bg-[#E6E4FF] rounded-xl">
+              <img src="/images/marketio-tablet.png" alt="Marketio App Interface" className="object-contain" />
             </div>
             <div className="text-content">
               <h2>
